@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="46">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>183</ID>
+      <Description>"Use new collision avoidance"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+EA28</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>182</ID>
+      <Description>"Avoid nearby physics objects"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+EA3C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>181</ID>
+      <Description>"Avoid avoidables"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+EA50</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>180</ID>
+      <Description>"Draw avoidables"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+EA64</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>179</ID>
+      <Description>"Display nav info"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+EB04</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>178</ID>
+      <Description>"Display minion pens"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+EB18</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>177</ID>
+      <Description>"Distance to check for attackability"</Description>
+      <VariableType>Double</VariableType>
+      <Address>Game.exe+180000+EC54</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>176</ID>
+      <Description>"Debug navmesh infinite loops"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+EC6C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>175</ID>
+      <Description>"DrawCharacterPositions"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+ED24</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>174</ID>
+      <Description>"Death Blow"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+ED38</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>173</ID>
+      <Description>"Invincible Good Guys"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+ED4C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>172</ID>
+      <Description>"Infinite health for good guys"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+ED60</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>73</ID>
+      <Description>"Anim Names"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+18ED74</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>71</ID>
+      <Description>"Anim Names Below Character"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+18ED88</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>69</ID>
+      <Description>"Draw Facing Vector"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+18ED9C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>171</ID>
+      <Description>"Invincibility Time"</Description>
+      <VariableType>Float</VariableType>
+      <Address>Game.exe+180000+EDEC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>170</ID>
+      <Description>"Mega Damage Multiplier"</Description>
+      <VariableType>Double</VariableType>
+      <Address>Game.exe+180000+EE10</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>77</ID>
+      <Description>"Display Kung Fu"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+18EE8C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>169</ID>
+      <Description>"Kung Fu attack type to display (3 max)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+EEA0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>167</ID>
+      <Description>"Draw waypoints"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+EF24</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>166</ID>
+      <Description>"Pause (sidekick)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+EF38</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>165</ID>
+      <Description>"Path edge to render"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+EF48</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>163</ID>
+      <Description>"Debug draw radius"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>Game.exe+180000+F014</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>164</ID>
+      <Description>"Debug draw radius"</Description>
+      <VariableType>Float</VariableType>
+      <Address>Game.exe+180000+F014</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>160</ID>
+      <Description>"Draw group descriptions"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+F084</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>159</ID>
+      <Description>"Num debug rings to draw"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+F098</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>158</ID>
+      <Description>"FrameByFrame"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+F0AC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>157</ID>
+      <Description>"SidekickTargetable"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+F0D4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>156</ID>
+      <Description>"CharacterDamage"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+F0E8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>155</ID>
+      <Description>"Draw Impact Bones"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+F0FC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>154</ID>
+      <Description>"PrintDamageSource"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+F124</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>153</ID>
+      <Description>"PrintSpecialAbilitySource"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+F138</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"CharacterHealth"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+18F19C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>152</ID>
+      <Description>"TestFlashlight"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+F1C4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"DrawFlashlight"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+18F1D8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>151</ID>
+      <Description>"SidekicksDoCoopMoves"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+F264</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>150</ID>
+      <Description>"PrintGoodGuys"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+F278</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>149</ID>
+      <Description>"PrintBadGuys"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+F28C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>63</ID>
+      <Description>"CharacterNames"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+18F2F0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>148</ID>
+      <Description>"Ledge Control Enabled"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+F390</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>146</ID>
+      <Description>"Draw Ledge Control"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+F3A4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>147</ID>
+      <Description>"DrawLedgeClimbTargets"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+F3B8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>145</ID>
+      <Description>"AllWebAbilitiesEnabled"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+F50C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>143</ID>
+      <Description>"AllWebModifiersEnabled"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+F520</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>142</ID>
+      <Description>"Show Combo Points"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+F660</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>140</ID>
+      <Description>"Debug Draw Special Abilities"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+F688</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>141</ID>
+      <Description>"Render Special Abilities"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+F69C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>138</ID>
+      <Description>"Print current minion behaviour"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+190000+510</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>136</ID>
+      <Description>"Print AI state info"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+180000+10570</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>135</ID>
+      <Description>"Draw adjacency for nav mesh"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+190000+6B4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>134</ID>
+      <Description>"Draw navmesh as boundary info"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+190000+6C8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>83</ID>
+      <Description>"Draw navmesh"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+190704</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>85</ID>
+      <Description>"Draw navmesh on top"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+19072C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>87</ID>
+      <Description>"Print current sidekick behaviour"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+190844</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>89</ID>
+      <Description>"Print current sidekick attack type"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+190858</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>108</ID>
+      <Description>"Render current target"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+19086C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>111</ID>
+      <Description>"Sidekick Set position"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+1906B8+4AC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>95</ID>
+      <Description>"DrawAttackBones"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+190B8C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>101</ID>
+      <Description>"DrawPredictedAttack"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+190BA0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>103</ID>
+      <Description>"DrawSeekTargets"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+190BB4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>105</ID>
+      <Description>"DrawAttackTargets"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+190BC8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>113</ID>
+      <Description>"Enable Scenarios"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+1906B8+1410</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>115</ID>
+      <Description>"Draw all nearby physics objects"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+1906B8+1450</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>116</ID>
+      <Description>"DrawOnHead"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+1906B8+1830</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>117</ID>
+      <Description>"DrawEdges"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+1906B8+1844</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>118</ID>
+      <Description>"DrawNormals"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+1906B8+1858</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>119</ID>
+      <Description>"SkipBoss"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+1906B8+1878</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>120</ID>
+      <Description>"Show Boss Locators"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+1906B8+18A0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>122</ID>
+      <Description>"BeatBossFast"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+1906B8+18B4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>124</ID>
+      <Description>"Boss behaviour on"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+1906B8+1968</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>126</ID>
+      <Description>"Draw active actions"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+1906B8+197C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>128</ID>
+      <Description>"Use Current Action Level"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+1906B8+1990</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>129</ID>
+      <Description>"Current Action Level"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+1906B8+19A4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>133</ID>
+      <Description>"Show glider effect state"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Game.exe+1906B8+1AF8</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
